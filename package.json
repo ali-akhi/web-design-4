@@ -2,7 +2,7 @@
   "name": "tamrin-web4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ali-akhi.github.io/web-design4/",
+  "homepage": "https://ali-akhi.github.io/web-design-4/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
